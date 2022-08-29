@@ -1,0 +1,99 @@
+.khoi1{
+    border-radius: 30px;
+    background-color: white;
+    width: 800px;
+    margin-left: 250px;
+}
+.bang1{
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-top: -200px;
+}
+.ttll{
+    margin-left: 250px;
+    margin-top: -70px;
+}
+.anh{
+    border-radius: 90%;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.hocvan{
+    color: blue;
+    background-color: white;
+    width: 350px;
+    height: 150px;
+    /*text-align: center;*/
+    border-radius: 20px;
+    margin-left: 25px;
+    left: 60px;
+    padding-top: 1px;
+    margin-left: 250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.kc{
+    margin-left: 300px;
+    margin-top: -20px;
+    background-color: lightblue;
+    border-radius: 90px;
+    width:20px;
+    height: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
+.ts{
+    background-color: lightblue;
+    border-radius: 20px;
+    margin-left: 180px;
+    margin-top: -40px;
+    text-align: center;
+    width: 150px;
+
+}
+.chunhat{
+    opacity: 70%;
+    color: black;
+}
+.kynang{
+    color: blue;
+    background-color: white;
+    width: 330px;
+    height: 150px;
+    /*text-align: center;*/
+    border-radius: 20px;
+    margin-left: 25px;
+    left: 60px;
+    padding-top: 1px;
+    margin-left: 700px;
+    margin-top: -150px;
+    padding-left: 20px;
+}
+.knlv{
+    color: blue;
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    margin-left: 25px;
+    left: 60px;
+    padding-top: 1px;
+    margin-left: 250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.hd{
+    color: blue;
+    background-color: white;
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 25px;
+    left: 60px;
+    padding-top: 1px;
+    margin-left: 250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
